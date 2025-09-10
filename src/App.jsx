@@ -14,8 +14,8 @@ function Feature({ icon, title, desc }) {
 
 export default function App() {
   const BRAND_NAME = "Unifest Hub";
-  const GOOGLE_FORM_URL = "#"; // replace with your Google Form URL
-  const CALENDLY_URL = "#"; // replace with your Calendly URL
+  const GOOGLE_FORM_URL = "https://forms.gle/PvBPqBM1nuPYXjn96"; // replace with your Google Form URL
+  const CALENDLY_URL = "https://calendly.com/shivanshyadav084/new-meeting"; // replace with your Calendly URL
 
   return (
     <div className="min-h-screen bg-white text-gray-900 antialiased">
